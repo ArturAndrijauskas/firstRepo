@@ -1,5 +1,3 @@
-# My 3rd attempt at this
+# Attempts: 4
 
-## I do find it fun
-
-getting a belly tingle as we speak
+Testing to see if 2nd repo will push at same time
